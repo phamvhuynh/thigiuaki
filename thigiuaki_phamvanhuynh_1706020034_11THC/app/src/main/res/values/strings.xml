@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">thigiuaki_phamvanhuynh_1706020034_11THC</string>
+    <string name="Main_UserName">User Name</string>
+    <string name="Main_Pass">Password</string>
+    <string name="Main_Login">Login</string>
+    <string name="hint_name">password</string>
+    <string name="hint_namea">User Name</string>
+    <string name="tv_name">Danh sách các sản phẩm</string>
+    <string name="tv_tendt">ten dien thoai</string>
+    <string name="tb_madt">ma dien thoai</string>
+    <string name="tv_gia">gia</string>
+    <string name="Chitiet">Thông Tin Chi Tiết</string>
+    <string name="btnback">Back</string>
+    <string name="btnview">View</string>
+</resources>
